@@ -1,4 +1,4 @@
-# YouTube-Video-Summariser
+# SmartTube Summarizer: Full-Stack Video Enhancement
 A chrome extension to summarise long YouTube videos by utilising YouTube's transcript feature and also suggesting hastags to better understand the video
 
 ## Requirements
